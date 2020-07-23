@@ -27,7 +27,7 @@ public class LoginController {
 		
 		return model;
 	}
-
+	// testing line
 	@RequestMapping("/register")
 	public ModelAndView register() {
 		ModelAndView model = new ModelAndView();
